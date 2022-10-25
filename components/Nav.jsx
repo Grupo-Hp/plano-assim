@@ -13,9 +13,9 @@ export default function Nav() {
                         <div className="flex items-center mx-20 justify-between w-full">
                             <div className="flex">
                                 <a href="./"><Image
-                                    src="/images/golden-logo.png"
+                                    src="/images/assim-logo.png"
                                     //layout='responsive'
-                                    width={150}
+                                    width={160}
                                     height={60}
                                     alt="Logo da Assim saúde"
 
